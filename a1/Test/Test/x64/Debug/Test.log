@@ -1,0 +1,3 @@
+﻿  route_manager.c
+C:\Users\derek\Desktop\Uvic Courses\seng265\Assignments\derekknight\a1\route_manager.c(29,9): warning C4101: 'i': unreferenced local variable
+  Test.vcxproj -> C:\Users\derek\Desktop\Uvic Courses\seng265\Assignments\derekknight\a1\Test\x64\Debug\Test.exe

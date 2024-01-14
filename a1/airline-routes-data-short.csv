@@ -1,0 +1,10 @@
+airline_name,airline_icao_unique_code,airline_country,from_airport_name,from_airport_city,from_airport_country,from_airport_icao_unique_code,from_airport_altitude,to_airport_name,to_airport_city,to_airport_country,to_airport_icao_unique_code,to_airport_altitude
+Aerocondor,ARD,Portugal,Astrakhan,Astrakhan,Russia,URWA,-65,Kazan,Kazan,Russia,UWKD,411
+Aerocondor,ARD,Portugal,Astrakhan,Astrakhan,Russia,URWA,-65,Mineralnyye Vody,Mineralnye Vody,Russia,URMM,1054
+Aerocondor,ARD,Portugal,Balandino,Chelyabinsk,Russia,USCC,769,Kazan,Kazan,Russia,UWKD,411
+Aerocondor,ARD,Portugal,Balandino,Chelyabinsk,Russia,USCC,769,Tolmachevo,Novosibirsk,Russia,UNNT,365
+Aerocondor,ARD,Portugal,Domododevo,Moscow,Russia,UUDD,588,Kazan,Kazan,Russia,UWKD,411
+Aerocondor,ARD,Portugal,Domododevo,Moscow,Russia,UUDD,588,Begishevo,Nizhnekamsk,Russia,UWKE,50
+Aerocondor,ARD,Portugal,Domododevo,Moscow,Russia,UUDD,588,,,,,
+Aerocondor,ARD,Portugal,Domododevo,Moscow,Russia,UUDD,588,Bugulma Airport,Bugulma,Russia,UWKB,991
+Aerocondor,ARD,Portugal,Belgorod International Airport,Belgorod,Russia,UUOB,735,Khrabrovo,Kaliningrad,Russia,UMKK,42

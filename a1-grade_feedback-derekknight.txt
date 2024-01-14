@@ -1,0 +1,49 @@
+SENG 265 -- SPRING 2023
+ASSIGNMENT #1 EVALUATION
+========================
+
+Student name:   Derek Knight
+Student number: V01014890
+Student login:  derekknight
+
+-----
+(1) route_manager.c submitted and named appropriately; compiles
+    without errors or warnings.
+
+- Yes, the submitted file is correct, and the code
+  compiles successfully without errors or warnings.
+
+-----
+(2) Tests passed (and further comments)
+
+- All tests failed. The code does not produce output.txt.
+
+-----
+(3) Code formatting and structure:
+
+ Positive aspects:
+
+- Good formatting and structure of the code that facilitates reading
+  and understanding.
+
+- Good naming conventions for functions and variables.
+
+- Great attempt at documenting the code using comments to describe
+  important aspects of the solution.
+
+- Reasonable attempt at code segmentation (i.e., appropriate function
+  creation and use). Consider dividing large functions into various
+  smaller functions with a smaller scope and a well-defined purpose.
+
+Improvement opportunities:
+
+- Instead of having large functions, it is a good practice to divide
+  your program into small pieces of functionality defined in
+  well-defined functions. Functions should have a unique intention and a
+  very clear scope. This facilitates the re-usability and maintainability
+  of your code.
+
+-----
+
+GRADE: F
+MARKS: 40 
